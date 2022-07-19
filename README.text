@@ -1,0 +1,21 @@
+README MP2: (Pizza) More Classes
+
+1. Name: Kevin Le
+   Student ID: 2406054
+   Chapman email: kevle@chapman.edu
+   Course: CPSC 231-04
+   MP2: (Pizza) More Classes
+
+2) Pizza.java
+   PizzaOrder.java
+   PizzaDriver.java
+
+3) Default Constructor for Pizza was set to a small cheese pizza
+   (PizzaOrder default constructor to create 1 small cheese pizza,
+   but it is a variation of implementation). PizzaDriver does not
+   take any terminal input.
+
+4) N/A
+
+5) javac PizzaDriver.java
+   java PizzaDriver
